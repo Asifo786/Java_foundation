@@ -20,5 +20,6 @@ public class CPSP {
         }else{
             System.out.println("No Profit No Loss");
         }
+        sc.close();
     }
 }

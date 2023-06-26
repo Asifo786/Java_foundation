@@ -14,5 +14,6 @@ public class IsSquare {
         } else {
             System.out.println("It's a rectangle");
         }
+        sc.close();
     }
 }

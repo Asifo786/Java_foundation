@@ -12,5 +12,6 @@ public class SkipNum {
         }else{
             System.out.println("Number skipped..!");
         }
+        sc.close();
     }    
 }

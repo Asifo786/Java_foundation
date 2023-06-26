@@ -33,5 +33,6 @@ public class Calculator {
                 System.out.println("Invalid input..!");
                 break;
         }
+        sc.close();
     }   
 }

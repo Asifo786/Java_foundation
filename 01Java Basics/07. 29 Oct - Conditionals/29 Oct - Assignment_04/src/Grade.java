@@ -31,5 +31,6 @@ public class Grade {
         } else {
             System.out.println("Your Grade is F");
         }
+        sc.close();
     }
 }

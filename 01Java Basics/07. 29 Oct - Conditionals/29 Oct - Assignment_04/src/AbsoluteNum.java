@@ -12,5 +12,7 @@ public class AbsoluteNum {
         } else {
             System.out.println(x);
         }
+
+        sc.close();
     }
 }
